@@ -1,0 +1,151 @@
+     .a{
+                height: 1500px;
+                width: 1500px;
+                border: 2px solid black ;
+            }
+            .b{
+                height: 1500px;
+                width: 1200px;
+                border: 2px solid black ;
+            }
+            .c{
+                height: 750px;
+                width: 1200px;
+                border: 2px solid black ;
+            }
+            .d{
+                height: 750px;
+                width: 1200px;
+                border: 2px solid black ;
+                
+            }
+            .e{
+                height: 750px;
+                width: 300px;
+                border: 2px solid black ;
+                float: left;
+            }
+            .f{
+                height: 750px;
+                width: 300px;
+                border: 2px solid black ;
+                float: left;
+            }
+            .g{
+                height: 750px;
+                width: 300px;
+                border: 2px solid black ;
+                float: left;
+            }
+            .h{
+                height: 750px;
+                width: 284px;
+                border: 2px solid black ;
+                float: right;
+            }
+            .i{
+                height: 750px;
+                width: 300px;
+                border: 2px solid black ;
+                float: left;
+            }
+            .j{
+                height: 750px;
+                width: 300px;
+                border: 2px solid black ;
+                float: left;
+            }
+            .k{
+                height: 750px;
+                width: 300px;
+                border: 2px solid black ;
+                float: left;
+            }
+            .l{
+                height: 750px;
+                width: 284px;
+                border: 2px solid black ;
+                float: right;
+            }
+            .one{
+                height: 700px;
+                width: 250px;
+                border: 1px solid black;
+                margin-left: 20px;
+                margin-top:  20px; 
+            }
+            .two1{
+                height: 550px;
+                width: 200px;
+                border: 1px solid black;
+                float: left;
+                margin: 20px;
+            }
+            .st1{
+                height: 150px;
+                width: 150px;
+                border: 1px solid black;
+                background-color: rgb(84, 84, 221);
+                position: static;
+            }
+            .st2{
+                height: 150px;
+                width: 150px;
+                border: 1px solid black;
+                background-color: greenyellow;
+                position: static;
+            }
+            .re1{
+                height: 150px;
+                width: 150px;
+                border: 1px solid black;
+                background-color: rgb(67, 67, 237);
+                position: static;
+            }
+            .re2{
+                height: 150px;
+                width: 150px;
+                border: 1px solid black;
+                background-color: greenyellow;
+                position: relative;
+                top: 20px;
+                left: 20px;
+            }
+            .ab1{
+                height: 100px;
+                width: 100px;
+                border: 1px solid black;
+                background-color: rgb(67, 67, 237);
+                position: relative;
+            }
+            .ab2{
+                height: 100px;
+                width: 100px;
+                border: 1px solid black;
+                background-color: greenyellow;
+                position: absolute;
+                left: 100px;
+                top: 100px;
+                
+    
+            }
+            .two2{
+                height: 550px;
+                width: 200px;
+                border: 1px solid black;
+                float: left;
+                margin: 20px;
+            }
+            .fixed{
+                height: 150px;
+                width: 150px;
+                border: 1px solid black;
+                float: right;
+                background-color: greenyellow;
+            }
+
+          
+        
+            
+
+

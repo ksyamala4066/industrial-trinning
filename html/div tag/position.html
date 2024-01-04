@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>postion</title>
+        <style>
+            .a{
+                height: 1300px;
+                width: 300px;
+                border: 3px solid black;
+                background-color: orange;
+                float: left;
+                position: static;
+                
+            }
+            .b{
+                height: 300px;
+                width: 300px;
+                border: 3px solid black;
+                background-color: blue;
+                float: left;
+                position: relative;
+                top: 30px;right: 30px;
+            }
+            .c{
+                height: 300px;
+                width: 300px;
+                border: 3px solid black;
+                background-color: green;
+                float: left;
+                position: absolute;
+                top: 40px; 
+                left: 40px;
+            }    
+            .d{
+                height: 300px;
+                width: 300px;
+                border: 3px solid black;
+                background-color: violet;
+                float: left;
+                position: fixed;
+                bottom: 0px;
+                right: 0px;
+            }
+            .e{
+                height: 300px;
+                width: 300px;
+                border: 3px solid black;
+                background-color: lightseagreen;
+                float: left;
+                position: sticky;
+                top: 0px;
+                padding-left: 100px;
+            }
+            .f{
+                height: 300px;
+                width: 300px;
+                border: 3px solid black;
+                background-color: yellow;
+                float: left;
+                position: relative;
+            }
+        </style>
+    </head>
+    <body>
+        <center><h1>postion tag</h1></center><hr>
+        <div class="a"><p>static</p></div>
+        <div class="b"><p>relative</p></div>
+        <div class="f"><div class="c"><p>absolute</p></div></div>
+        <div class="d"><p>fixed</p></div>
+        <div class="e"><p>sticky</p></div>
+
+    </body>
+</html>

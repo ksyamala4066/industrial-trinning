@@ -1,0 +1,51 @@
+           .one{
+                height: 850px;
+                width: 1300px;
+                border: 1px solid black;
+            }
+            .one2{
+                height: 50px;
+                width: 850px;
+                border: 1px solid;
+                padding-left:  450px;
+                padding-top: 50px;
+               
+            }
+            .one3{
+                height: 700px;
+                width: 1250px;
+                border: 1px solid black ;
+                padding-left: 50px;
+                padding-top: 50px;
+            }
+            .one4{
+                height: 500px;
+                width: 400px;
+                border: 1px solid black ;
+                float: left;
+                padding-top: 100px;
+                font-style: inherit;
+            }
+            .one5{
+                height: 699px;
+                width: 750px;
+                border: 1px solid black ;
+                float: right;
+            }
+            .one6{
+                height: 300px;
+                width: 700px;
+                border: 1px solid black ;
+                padding-left: 50px; ;
+            }
+            .one7{
+                height: 392px;
+                width: 730px;
+                border: 1px solid black ;
+                padding-left: 20px;
+            }
+            .one8{
+                height: 4px;
+                width: 700px;
+                border: 2px solid white;
+            }
